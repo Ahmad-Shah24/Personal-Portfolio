@@ -1,0 +1,26 @@
+/* Set the background image */
+#home {
+    background-image: url("C:\Users\DELL\Desktop\Fall 2023\WEB Dev\Assignment 1_Personal Portflio\background.jpg"); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    color: #110000;
+    padding: 50px;
+    text-align: center;
+}
+
+/* Style the name */
+#home h1 {
+    font-size: 36px;
+}
+
+/* Style the interests and basic information */
+#home p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+/* Style the image */
+#home img {
+    max-width: 100%;
+    border-radius: 50%; /* Rounded image for a circular effect */
+}
