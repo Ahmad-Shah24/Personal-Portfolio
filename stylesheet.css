@@ -1,6 +1,6 @@
 /* Set the background image */
 #home {
-    background-image: url("C:\Users\DELL\Desktop\Fall 2023\WEB Dev\Assignment 1_Personal Portflio\background.jpg"); /* Replace with your image path */
+    background-image: url("background.jpg"); /* Replace with your image path */
     background-size: cover;
     background-position: center;
     color: #110000;
